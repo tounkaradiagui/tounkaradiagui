@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diagui Tounkara</h1>
-<h3 align="center">A passionate Fullstack Developer From Mali</h3>
+<h3 align="center">A Passionate Fullstack Developer From Mali</h3>
 <img alt="Coding" align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47aefhs5tlsksgq23iivpdnnc8xrpai0la1roza864&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tounkaradiagui&label=Profile%20views&color=0e75b6&style=flat" alt="tounkaradiagui" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.devdiagui.ml](https://www.devdiagui.ml)
 
-- 💬 Ask me about **Laravel, React Js,**
+- 💬 Ask me about **Laravel, React Js and React Native**
 
 - 📫 How to reach me **tounkaradiagui@gmail.com**
 
