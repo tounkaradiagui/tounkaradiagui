@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.devdiagui.ml](https://www.devdiagui.ml)
 
-- ⚡ Fun fact **Mon navigateur préféré est celui qui ne demande jamais où je veux sauvegarder les fichiers téléchargés. Il les met directement dans le chaos de mon bureau. 📂**
+- ⚡ Fun fact **My favorite browser is the one that never asks where I want to save downloaded files. It just puts them directly into the chaos of my desktop. 📂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
