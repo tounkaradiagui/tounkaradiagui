@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dtounkara20" target="blank"><img src="https://img.shields.io/twitter/follow/dtounkara20?logo=twitter&style=for-the-badge" alt="dtounkara20" /></a> </p>
 
-- 🔭 I’m currently working on [Mobile application for personal finance management.](https://github.com/tounkaradiagui/gestion-finances-personnelles)
+- 🔭 I’m currently working on [Mobile application for personal finance management.](https://github.com/tounkaradiagui/Track_Finances)
 
 - 🌱 I’m currently learning **React Native**
 
