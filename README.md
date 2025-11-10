@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.devdiagui.ml](https://www.devdiagui.com)
+- 👨‍💻 All of my projects are available at [https://www.devdiagui.com](https://www.devdiagui.com)
 
 - 💬 Ask me about **Laravel, React Js and React Native**
 
 - 📫 How to reach me **tounkaradiagui@gmail.com**
 
-- 📄 Know about my experiences [https://www.devdiagui.ml](https://www.devdiagui.com)
+- 📄 Know about my experiences [https://www.devdiagui.com](https://www.devdiagui.com)
 
 - ⚡ Fun fact **My favorite browser is the one that never asks where I want to save downloaded files. It just puts them directly into the chaos of my desktop. 📂**
 
