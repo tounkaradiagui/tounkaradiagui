@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://devdiagui.com](https://www.devdiagui.com)
+- 👨‍💻 All of my projects are available at https://devdiagui.com/
 
 - 💬 Ask me about **Laravel, React Js and React Native**
 
